@@ -1,0 +1,7 @@
+*cred.json
+*.log
+node_modules
+deploys
+flow/flows.json
+flow/.config.json
+flow/.flows.json.backup
